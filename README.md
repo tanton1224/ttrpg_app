@@ -76,3 +76,6 @@ Flavor Description - - -
     - Docker
     - AWS
 
+# Next Steps 
+- Design out first pages
+- Design starting server routes
